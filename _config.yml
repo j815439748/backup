@@ -80,18 +80,13 @@ theme: Sakura
 deploy:
   type: git
   repo: https://github.com/j815439748/j815439748.github.io.git
-    # github: git@github.com:honjun/honjun.github.io.git
-    # github: https://github.com/honjun/honjun.github.io.git
-    coding: https://git.coding.net/hojun/hojun.git
   branch: master
 
 # backup
 backup:
   type: git
-  message: backup my blog of https://yourname.github.io/
-  repository:https://github.com/j815439748/j815439748.github.io.git,backup
-    # github: https://github.com/honjun/honjun.github.io.git,backup
-    coding: https://git.coding.net/hojun/hojun.git,backup
+  message: backup my blog of https://j815439748.github.io/
+  repository: https://github.com/j815439748/j815439748.github.io.git,backup
 
 #RSS
 feed:

@@ -1,11 +1,11 @@
 # site name
-prefixName: さくら荘その
-siteName: hojun
+prefixName: Mr. J
+siteName: Wave and Sea
 # favicon and site master avatar
 favicon: /images/favicon.ico
 avatar: /img/custom/avatar.jpg
-url: https://sakura.hojun.cn
-description: Live your life with passion! With some drive!
+url: https://j815439748.github.io/
+description: (｡･∀･)ﾉﾞ嗨
 cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
 pjax: 1
 # 1开启
